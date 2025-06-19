@@ -1,2 +1,3 @@
 ![image](https://github.com/user-attachments/assets/9435ba6a-13c7-4ae2-8077-d9c28165bcfe)
+DOI: 10.5281/zenodo.15695377
 This is part of the research work based on Smart Grid Cyber Threat Intelligence (SG-CTI). The research paper of this work is under review in the journal. Detailed information about this work will be provided after it is published in the journal. Research Grant: GUP-2023-010 (supported by the Ministry of Higher Education, Malaysia)
