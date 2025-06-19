@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/9435ba6a-13c7-4ae2-8077-d9c28165bcfe)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15695378.svg)](https://doi.org/10.5281/zenodo.15695378)
 
 DOI: 10.5281/zenodo.15695377
 
